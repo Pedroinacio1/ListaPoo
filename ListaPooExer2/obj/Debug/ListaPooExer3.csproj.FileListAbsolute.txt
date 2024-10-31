@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\ListaPooExer2\bin\Debug\ListaPooExer2.exe.config
+C:\Users\pedro\source\repos\ListaPooExer2\bin\Debug\ListaPooExer2.exe
+C:\Users\pedro\source\repos\ListaPooExer2\bin\Debug\ListaPooExer2.pdb
+C:\Users\pedro\source\repos\ListaPooExer2\obj\Debug\ListaPooExer3.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ListaPooExer2\obj\Debug\ListaPooExer3.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ListaPooExer2\obj\Debug\ListaPooExer2.exe
+C:\Users\pedro\source\repos\ListaPooExer2\obj\Debug\ListaPooExer2.pdb
