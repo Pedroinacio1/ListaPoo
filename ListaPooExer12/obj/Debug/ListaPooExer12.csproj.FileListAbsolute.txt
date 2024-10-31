@@ -1,0 +1,14 @@
+D:\Programação\ListaPooExer12\bin\Debug\ListaPooExer12.exe.config
+D:\Programação\ListaPooExer12\bin\Debug\ListaPooExer12.exe
+D:\Programação\ListaPooExer12\bin\Debug\ListaPooExer12.pdb
+D:\Programação\ListaPooExer12\obj\Debug\ListaPooExer12.csproj.AssemblyReference.cache
+D:\Programação\ListaPooExer12\obj\Debug\ListaPooExer12.csproj.CoreCompileInputs.cache
+D:\Programação\ListaPooExer12\obj\Debug\ListaPooExer12.exe
+D:\Programação\ListaPooExer12\obj\Debug\ListaPooExer12.pdb
+C:\Users\pedro\source\repos\ListaPooExer12\bin\Debug\ListaPooExer12.exe.config
+C:\Users\pedro\source\repos\ListaPooExer12\bin\Debug\ListaPooExer12.exe
+C:\Users\pedro\source\repos\ListaPooExer12\bin\Debug\ListaPooExer12.pdb
+C:\Users\pedro\source\repos\ListaPooExer12\obj\Debug\ListaPooExer12.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ListaPooExer12\obj\Debug\ListaPooExer12.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ListaPooExer12\obj\Debug\ListaPooExer12.exe
+C:\Users\pedro\source\repos\ListaPooExer12\obj\Debug\ListaPooExer12.pdb
